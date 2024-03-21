@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace CNPM.Views
 {
-    public partial class CardView : UserControl
+    public partial class frmMsgbFgPass : Form
     {
-        public CardView()
+        public frmMsgbFgPass()
         {
             InitializeComponent();
+        }
+
+        private void guna2ControlBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
