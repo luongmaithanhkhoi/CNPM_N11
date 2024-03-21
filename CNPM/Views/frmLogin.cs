@@ -58,17 +58,10 @@ namespace CNPM.Views
             openCurrentForm(new frmCreateAccount());
         }
 
-        private void guna2GradientButton2_Click(object sender, EventArgs e)
-        {
-            new frmMsgbFgPass().ShowDialog();
-        }
-
         private void guna2GradientButton1_Click(object sender, EventArgs e)
         {
-            frMain fMain = new frMain();
-            this.Hide();
-            fMain.ShowDialog();
-            this.Show();
+            Form mainForm = new frMain();
+            mainForm.Show();
         }
     }
 }
