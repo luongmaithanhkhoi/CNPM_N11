@@ -69,9 +69,24 @@ namespace CNPM
             openCurrentForm(new frmPayment());
         }
 
-        private void bodyPanel_Paint(object sender, PaintEventArgs e)
+        private void guna2CustomGradientPanel1_Paint(object sender, PaintEventArgs e)
         {
-            openCurrentForm(new frmTrangChu());
+
+        }
+
+        private void guna2HtmlLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
