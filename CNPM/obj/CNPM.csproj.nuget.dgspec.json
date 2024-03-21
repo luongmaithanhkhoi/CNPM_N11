@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thanh\\Desktop\\CNPM_N11-main\\CNPM\\CNPM.csproj": {}
+    "C:\\Users\\thanh\\Exercise\\Rac\\CNPM\\CNPM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thanh\\Desktop\\CNPM_N11-main\\CNPM\\CNPM.csproj": {
+    "C:\\Users\\thanh\\Exercise\\Rac\\CNPM\\CNPM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thanh\\Desktop\\CNPM_N11-main\\CNPM\\CNPM.csproj",
+        "projectUniqueName": "C:\\Users\\thanh\\Exercise\\Rac\\CNPM\\CNPM.csproj",
         "projectName": "CNPM",
-        "projectPath": "C:\\Users\\thanh\\Desktop\\CNPM_N11-main\\CNPM\\CNPM.csproj",
+        "projectPath": "C:\\Users\\thanh\\Exercise\\Rac\\CNPM\\CNPM.csproj",
         "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thanh\\Desktop\\CNPM_N11-main\\CNPM\\obj\\",
+        "outputPath": "C:\\Users\\thanh\\Exercise\\Rac\\CNPM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,7 +57,7 @@
               "target": "Package",
               "version": "[2.0.4.6, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.28, )"
             },
@@ -66,10 +66,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.28, )"
-            },
-            "Pomelo.EntityFrameworkCore.MySql": {
-              "target": "Package",
-              "version": "[6.0.0, )"
             }
           },
           "imports": [

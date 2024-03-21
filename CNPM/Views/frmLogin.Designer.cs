@@ -196,6 +196,7 @@
             guna2GradientButton2.Size = new Size(163, 35);
             guna2GradientButton2.TabIndex = 7;
             guna2GradientButton2.Text = "Quên mật khẩu";
+            guna2GradientButton2.Click += guna2GradientButton2_Click;
             // 
             // guna2GradientButton1
             // 
